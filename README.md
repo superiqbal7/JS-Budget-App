@@ -1,5 +1,8 @@
 # JS-Budget-App
 
+## Live Demo
+https://superiqbal7.github.io/JS-Budget-App/
+
 ## Technologies
   *HTMl
   *CSS
